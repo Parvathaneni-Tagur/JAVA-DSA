@@ -17,10 +17,10 @@ public class ArrayReverse {
 
     public static void main(String[] args) {
 
-       // int[] arr = { 1, 2, 3, 4, 5 };
        Scanner sc =new Scanner(System.in);
        int[] arr= new int[5];
        for(int m=0;m<5;m++){
+
          arr[m] = sc.nextInt();
        }
 

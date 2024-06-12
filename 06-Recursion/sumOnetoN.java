@@ -6,6 +6,7 @@ public class sumOnetoN {
             System.out.println(sum);
             return;
         }
+        
         sum_of_one_to_n(n-1, sum+n);
     }
 
