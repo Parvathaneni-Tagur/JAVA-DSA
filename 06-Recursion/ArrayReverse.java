@@ -1,33 +1,36 @@
+import java.util.Scanner;
 public class ArrayReverse {
-    static void swap(int i, int j, int[] arr) {
 
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
+    static int[] reverse(int i, int j, int[] arr) {
 
-    static void reverse(int i, int j, int[] arr) {
+        if (i < j) {
 
-        if (i >= j) {
-            for (int k = 0; k < arr.length; k++)
-                System.out.println(arr);
-            return;
+            int tep = arr[i];
+            arr[i] = arr[j];
+            arr[j] = tep;
+
+            reverse(i + 1, j - 1, arr);
         }
-
-        swap(i, j, arr);
-        int tep = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tep;
-
-        reverse(i + 1, j - 1, arr);
+        return arr;
+        
     }
 
     public static void main(String[] args) {
 
-        int[] arr = { 1, 2, 3, 4, 5 };
-        int i = 0, j = (arr.length) - 1;
-        reverse(i, j, arr);
+       // int[] arr = { 1, 2, 3, 4, 5 };
+       Scanner sc =new Scanner(System.in);
+       int[] arr= new int[5];
+       for(int m=0;m<5;m++){
+         arr[m] = sc.nextInt();
+       }
 
-        System.out.println(arr[1] );
+       int i = 0, j = (arr.length) - 1;
+        reverse(i, j, arr);
+        System.out.println("output");
+        for (int k = 0; k <= j; k++) {
+            System.out.println(arr[k]);
+        }
+        sc.close();
+
     }
 }
