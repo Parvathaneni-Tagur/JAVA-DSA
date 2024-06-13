@@ -1,0 +1,189 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Addarray",
+      "request": "launch",
+      "mainClass": "Addarray",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "ArrayIntro",
+      "request": "launch",
+      "mainClass": "ArrayIntro",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "ArrayReverse",
+      "request": "launch",
+      "mainClass": "ArrayReverse",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Butterflyshape",
+      "request": "launch",
+      "mainClass": "Butterflyshape",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "CenterTriangle",
+      "request": "launch",
+      "mainClass": "CenterTriangle",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Divisors",
+      "request": "launch",
+      "mainClass": "Divisors",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciNumber",
+      "request": "launch",
+      "mainClass": "FibonacciNumber",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Intersection",
+      "request": "launch",
+      "mainClass": "Intersection",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Intro",
+      "request": "launch",
+      "mainClass": "Intro",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Invertedhill",
+      "request": "launch",
+      "mainClass": "Invertedhill",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "MaxArray",
+      "request": "launch",
+      "mainClass": "MaxArray",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "PrintWave",
+      "request": "launch",
+      "mainClass": "PrintWave",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "ReverseArray",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Rhombus",
+      "request": "launch",
+      "mainClass": "Rhombus",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "RotateArray",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Sidetriangle",
+      "request": "launch",
+      "mainClass": "Sidetriangle",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "Uppertriangle",
+      "request": "launch",
+      "mainClass": "Uppertriangle",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "digitsInNumber",
+      "request": "launch",
+      "mainClass": "digitsInNumber",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "in",
+      "request": "launch",
+      "mainClass": "in",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
+      "name": "sumOnetoN",
+      "request": "launch",
+      "mainClass": "sumOnetoN",
+      "projectName": "JAVA-DSA_1ba4caed"
+    }
+  ]
+}
