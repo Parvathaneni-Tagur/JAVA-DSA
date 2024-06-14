@@ -23,6 +23,7 @@ public class CenterTriangle {
             spaces--;
             stars += 2;
         }
+        sc.close();
     
     }
 }

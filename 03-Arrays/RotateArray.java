@@ -7,7 +7,7 @@ public class RotateArray {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("enter numbber=");
-        int k = sc.nextInt(), m;
+        int k = sc.nextInt();
 
         if (k >= 0) {
             k = k % arr.length;

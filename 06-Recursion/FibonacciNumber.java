@@ -13,5 +13,6 @@ public class FibonacciNumber {
         int n=sc.nextInt();
        int fib= fibo(n);
        System.out.println((fib));
+       sc.close();
     }
 }

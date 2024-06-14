@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Intro{
 public static void main(String[] args) {
 
-    ArrayList<Integer> arrayList=new ArrayList<>();
+    //ArrayList<Integer> arrayList=new ArrayList<>();
     ArrayList<String> languages = new ArrayList<>();
 
 languages.add("java");
@@ -17,7 +17,7 @@ System.err.println(languages.get(0));
 
 
 //change
-String changed = languages.set(1, "c++");
+//String changed = languages.set(1, "c++");
 System.out.println(languages);
 
 
