@@ -8,6 +8,8 @@ public class ReverseArray {
             arr[i] = arr[j];
             arr[j] = temp;
             i++;
+
+            
             j--;
         }
 
