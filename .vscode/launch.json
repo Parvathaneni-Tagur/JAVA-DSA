@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "JAVA-DSA_cfbc426a"
+    },
+    {
+      "type": "java",
       "name": "InsertionSort",
       "request": "launch",
       "mainClass": "InsertionSort",
