@@ -6,10 +6,17 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "CheckIfArrayIsSorted",
       "request": "launch",
       "mainClass": "CheckIfArrayIsSorted",
       "projectName": "JAVA-DSA_1ba4caed"
+=======
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "JAVA-DSA_cfbc426a"
+>>>>>>> 2d108fb34598bfe48829b1390a6e2997d82a293f
     },
     {
       "type": "java",
