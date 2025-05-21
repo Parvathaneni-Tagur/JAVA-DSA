@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckIfArrayIsSorted",
+      "request": "launch",
+      "mainClass": "CheckIfArrayIsSorted",
+      "projectName": "JAVA-DSA_1ba4caed"
+    },
+    {
+      "type": "java",
       "name": "InsertionSort",
       "request": "launch",
       "mainClass": "InsertionSort",
